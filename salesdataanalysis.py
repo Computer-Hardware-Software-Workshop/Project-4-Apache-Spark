@@ -1,13 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[12]:
-
-
-pip install pyspark
-
-
-# In[13]:
 
 
 import pandas as pd
