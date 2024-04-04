@@ -37,14 +37,6 @@ spark.stop()
 pd.read_csv("sales_data.csv")
 
 
-# In[22]:
-
-
-pd.read_csv("total_sales_per_product.csv")
-
-
-# In[ ]:
-
 
 
 
